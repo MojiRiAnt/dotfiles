@@ -5,8 +5,10 @@ alias la="ls -a"
 alias v="vim"
 
 alias weather="curl wttr.in"
+alias flux="xrandr --output LVDS --gamma 0.8:0.7:0.6"
 
 #Launching Bash Scripts
 alias makehs=". $HOME/Documents/Programming/bash-scripts/MakeHaskellExecutable.sh"
 alias makecpp=". $HOME/Documents/Programming/bash-scripts/MakeCPPExecutable.sh"
-#alias makesfml=". $HOME/Documents/Programming/bash-scripts/<...>"
+alias makesfml=". $HOME/Documents/Programming/bash-scripts/MakeSFMLExecutable.sh"
+alias buildlatex=". $HOME/Documents/Programming/bash-scripts/BuildLaTeXPDF.sh"
