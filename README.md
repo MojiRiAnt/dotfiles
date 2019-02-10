@@ -1,6 +1,8 @@
 # My setup
 This repository contains my system configuration files.
 
+**Warning:** all the files here are outdated and I no longer use them.
+
 **Note:** I do not claim all the files to be written by me myself!
 
 ## Repo structure
